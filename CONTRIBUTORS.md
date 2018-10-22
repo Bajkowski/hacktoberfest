@@ -33,6 +33,11 @@
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
+#### Name: [Katie Bajkowski](https://github.com/Bajkowski)
+- Place: Madison, Wisconsin
+- Bio: I like to code and collect t-shirts!
+- GitHub: [Bajkowski](https://github.com/Bajkowski)
+
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
